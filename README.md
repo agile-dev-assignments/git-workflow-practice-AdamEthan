@@ -1,4 +1,4 @@
-# Git Practice Assignment 
+# Git Practice Assignment
 Adam Ethan
 
 ## Article: 
@@ -10,5 +10,5 @@ Adam Ethan
  Trusona also has an option for users to scan their driver's liscense for authentication. I like the idea of moving away from passwords and creating a faster
  MFA system. The NYU MFA system is inconvenient and annoying in my opinion. Having a password as well as traditional MFA methods can be tedious for every website. Also, most people use similar passwords for multiple accounts. However, MFA solutions have been hacked already so eliminating passwords may backfire in the future. If Trusona's system is proven to be safe throughout the next year, I can see it replacing most login authenticators. What I find interesting is the necessity of smartphones now. Another new passwordless company, HYPR, offers the same service as Trusona and for those without smartphones, it allows for a computer Touch ID or Windows Hello authentication system. Regardless, passwords may become obsolute for most websites in the near future. Hopefully, NYU makes the switch to Trusona or HYPR. 
 
- ## Comment by Ari Khaytser
+ ## Comment by Ari Khaytser:
 I think this technology will start spreading a lot faster in the near future, and it seems like it will be pretty convenient if implemented well (and securely). Without having to remember a password, it will be interesting to see what it will be like without the "human element" as part of the authentication system. Interesting article!
